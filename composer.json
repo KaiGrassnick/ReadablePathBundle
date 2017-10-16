@@ -1,7 +1,7 @@
 {
     "name": "kai-grassnick/readable-path-bundle",
     "description": "Extends the sonata media bundle with a possibility for readable image paths.",
-    "tags": ["media", "thumbnail", "path", "sonata"],
+    "keywords": ["media", "thumbnail", "path", "sonata"],
     "type": "symfony-bundle",
     "autoload": {
         "psr-4": {
